@@ -4,9 +4,12 @@ export default {
       path: "/",
       name: "Home",
       component: () => import("@/views/Home"),
+<<<<<<< HEAD
       meta: {
         auth: true,
       }
+=======
+>>>>>>> 0e33e4bd791f461aa1eeef36bf680e1ccf384315
     },
     {
       path: "/login",
@@ -38,9 +41,12 @@ export default {
       path: "/channel/:id",
       name: "ChannelNews",
       component: () => import("@/views/ChannelNews"),
+<<<<<<< HEAD
       meta: {
         auth: true,
       }
+=======
+>>>>>>> 0e33e4bd791f461aa1eeef36bf680e1ccf384315
     },
     {
       path: "/auth",
