@@ -23,5 +23,3 @@ npm run build
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-![image](https://github.com/TNGsmile/news-app/blob/master/src/assets/banner/banner1.jpeg)
-![Image text]((https://github.com/TNGsmile/news-app/blob/master/src/assets/banner/banner1.jpeg))
